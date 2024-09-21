@@ -7,6 +7,7 @@ Repository ini berisi kode dan analisis untuk mengevaluasi indikator Sustainable
 - [Indikator yang Dianalisis](#indikator-yang-dianalisis)
   - [Kemahiran Minimum dalam Membaca dan Matematika](#kemahiran-minimum-dalam-membaca-dan-matematika)
   - [Keterampilan Teknologi Informasi dan Komunikasi (ICT)](#keterampilan-teknologi-informasi-dan-komunikasi-ict)
+  - [Kualifikasi Guru](#kualifikasi-guru)
 - [Persyaratan](#persyaratan)
 - [Struktur Proyek](#struktur-proyek)
 - [Author Information](#author-information)
@@ -21,6 +22,9 @@ Indikator ini mengukur persentase siswa yang mencapai **Minimum Proficiency Leve
 
 ### Keterampilan Teknologi Informasi dan Komunikasi (ICT)
 Indikator ini mengukur distribusi keterampilan dasar dan lanjutan dalam penggunaan teknologi informasi. Keterampilan yang diukur mencakup keterampilan dasar seperti menggunakan internet dan keterampilan lanjutan seperti pemrograman dan keamanan data.
+
+### Kualifikasi Guru
+Indikator ini mengukur proporsi guru yang memiliki kualifikasi minimum yang diperlukan untuk mengajar di berbagai tingkat pendidikan. Analisis ini membandingkan kualifikasi guru di Indonesia dengan standar global, serta mengevaluasi dampaknya terhadap kualitas pendidikan.
 
 ## Persyaratan
 Proyek ini memerlukan beberapa pustaka Python, antara lain:
